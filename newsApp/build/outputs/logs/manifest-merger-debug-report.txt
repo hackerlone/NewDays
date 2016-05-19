@@ -17,6 +17,7 @@ ADDED from E:\android\MyWork\DayNews&jsoup\newsApp\src\main\AndroidManifest.xml:
 		ADDED from E:\android\MyWork\DayNews&jsoup\newsApp\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from E:\android\MyWork\DayNews&jsoup\newsApp\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:20.0.0] E:\android\MyWork\DayNews&jsoup\newsApp\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\AndroidManifest.xml:16:5-42
 	android:targetSdkVersion
 		ADDED from E:\android\MyWork\DayNews&jsoup\newsApp\src\main\AndroidManifest.xml:9:9-38
 		INJECTED from E:\android\MyWork\DayNews&jsoup\newsApp\src\main\AndroidManifest.xml
@@ -35,6 +36,7 @@ ADDED from E:\android\MyWork\DayNews&jsoup\newsApp\src\main\AndroidManifest.xml:
 		ADDED from E:\android\MyWork\DayNews&jsoup\newsApp\src\main\AndroidManifest.xml:12:22-76
 application
 ADDED from E:\android\MyWork\DayNews&jsoup\newsApp\src\main\AndroidManifest.xml:14:5-32:19
+MERGED from [com.android.support:support-v4:20.0.0] E:\android\MyWork\DayNews&jsoup\newsApp\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\AndroidManifest.xml:17:5-19
 	android:label
 		ADDED from E:\android\MyWork\DayNews&jsoup\newsApp\src\main\AndroidManifest.xml:18:9-41
 	android:allowBackup

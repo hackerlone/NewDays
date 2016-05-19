@@ -23,11 +23,11 @@ public class BitmapCache implements ImageLoader.ImageCache{
 
     @Override
     public Bitmap getBitmap(String s) {
-        return null;
+        return mCache.get(s);
     }
 
     @Override
     public void putBitmap(String s, Bitmap bitmap) {
-
+        mCache.put(s,bitmap);
     }
 }

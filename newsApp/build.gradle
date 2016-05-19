@@ -1,14 +1,15 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 19
-    buildToolsVersion "19.1.0"
-    compileOptions.encoding = "GBK"
+    compileSdkVersion 23
+    buildToolsVersion "24.0.0 rc2"
 
     defaultConfig {
-        applicationId "com.xsy.newsapp"
-        minSdkVersion 15
-        targetSdkVersion 19
+        applicationId "com.example.fragment"
+        minSdkVersion 19
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
     }
 
     buildTypes {
@@ -20,7 +21,7 @@ android {
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:19.+'
+    compile 'com.android.support:support-v4:20.+'
     compile files('libs/jsoup-1.8.3.jar')
     compile files('libs/volley.jar')
 }

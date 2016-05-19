@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/fragment对话框/fragment对话框.iml" filepath="$PROJECT_DIR$/fragment对话框/fragment对话框.iml" />
       <module fileurl="file://$PROJECT_DIR$/gson试验/gson试验.iml" filepath="$PROJECT_DIR$/gson试验/gson试验.iml" />
       <module fileurl="file://$PROJECT_DIR$/newsApp/newsApp.iml" filepath="$PROJECT_DIR$/newsApp/newsApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/topNews/topNews.iml" filepath="$PROJECT_DIR$/topNews/topNews.iml" />
       <module fileurl="file://$PROJECT_DIR$/今日头条/今日头条.iml" filepath="$PROJECT_DIR$/今日头条/今日头条.iml" />
     </modules>
   </component>
