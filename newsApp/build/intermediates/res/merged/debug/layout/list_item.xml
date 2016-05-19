@@ -1,0 +1,123 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+    
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <TextView
+            android:id="@+id/recommandTopTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="9dp"
+            android:text="希腊爆发全国罢工示威 向警察投掷燃烧弹" />
+
+        <ImageView
+            android:id="@+id/recommandTopImgView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:paddingLeft="9dp"
+            android:paddingRight="9dp"
+            android:src="@drawable/recommand_01" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="9dp"
+            android:text="他宁愿拿底薪也不重回火箭 打出千万身价的他已经是黄皮肤的乔丹" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="9dp"
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:src="@drawable/recommand_02" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="1dp"
+                android:layout_marginRight="1dp"
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:src="@drawable/recommand_03" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="9dp"
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:src="@drawable/recommand_04" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:gravity="center"
+        android:orientation="horizontal" >
+        
+        <LinearLayout 
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="9dp"
+            android:layout_marginTop="9dp"
+            android:layout_weight="2"
+            android:orientation="vertical"
+            >
+	        <TextView
+	            android:id="@+id/recommandTitleTextView"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="中办国办明确规定离退休干部党员不能信仰宗教"
+	            android:textSize="16sp" />
+	        
+	        <TextView
+	            android:id="@+id/recommandDescTextView"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="中办国办明确规定离退休干部党员不能信仰宗教"
+	            android:textSize="13sp"
+	            android:textColor="#959695" />
+            
+        </LinearLayout>
+
+        <LinearLayout 
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="9dp"
+            android:layout_marginTop="9dp"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            >
+	        <ImageView
+	            android:id="@+id/recommandSingleImageView"
+	            android:layout_width="match_parent"
+	            android:layout_height="match_parent"
+	            android:scaleType="fitXY"
+	            android:src="@drawable/recommand_06" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

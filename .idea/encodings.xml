@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/newsApp/src/main/java/com/xsy/newsapp/adapter/ImageAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/newsApp/src/main/java/com/xsy/newsapp/application/MainApplication.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/newsApp/src/main/java/com/xsy/newsapp/model/NewModel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/newsApp/src/main/java/com/xsy/newsapp/model/imp/NewModelImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/newsApp/src/main/java/com/xsy/newsapp/ui/activity/AddActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/newsApp/src/main/java/com/xsy/newsapp/ui/activity/DaoHangFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/newsApp/src/main/java/com/xsy/newsapp/ui/activity/MainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/newsApp/src/main/java/com/xsy/newsapp/ui/activity/WoDeFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/newsApp/src/main/java/com/xsy/newsapp/ui/fragment/EntertainmentFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/newsApp/src/main/java/com/xsy/newsapp/ui/fragment/HotFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/newsApp/src/main/java/com/xsy/newsapp/ui/fragment/RecommandFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/newsApp/src/main/java/com/xsy/newsapp/ui/fragment/SocialFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/newsApp/src/main/java/com/xsy/newsapp/ui/fragment/SportsFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/newsApp/src/main/java/com/xsy/newsapp/ui/fragment/TechnologyFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/newsApp/src/main/java/com/xsy/newsapp/util/BitmapCache.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/newsApp/src/main/java/com/xsy/newsapp/util/ToolUtils.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

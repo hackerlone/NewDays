@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="top_color">#D43D3D</color>
+    <color name="top_text_color">#FFFFFF</color>
+    <color name="top_text_color_foucs">#F0F0F0</color>
+    <color name="top_text_color_nofoucs">#C6FBFF</color>
+</resources>

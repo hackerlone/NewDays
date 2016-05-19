@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "E:\\android\\MyWork\\DayNews&jsoup\\newsApp\\build\\intermediates\\res\\merged\\debug\\layout\\wode_layout.xml",
+        "source": "E:\\android\\MyWork\\DayNews&jsoup\\newsApp\\src\\main\\res\\layout\\wode_layout.xml"
+    },
+    {
+        "merged": "E:\\android\\MyWork\\DayNews&jsoup\\newsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\android\\MyWork\\DayNews&jsoup\\newsApp\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\android\\MyWork\\DayNews&jsoup\\newsApp\\build\\intermediates\\res\\merged\\debug\\layout\\tuijian_layout.xml",
+        "source": "E:\\android\\MyWork\\DayNews&jsoup\\newsApp\\src\\main\\res\\layout\\tuijian_layout.xml"
+    },
+    {
+        "merged": "E:\\android\\MyWork\\DayNews&jsoup\\newsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_more.xml",
+        "source": "E:\\android\\MyWork\\DayNews&jsoup\\newsApp\\src\\main\\res\\layout\\activity_more.xml"
+    },
+    {
+        "merged": "E:\\android\\MyWork\\DayNews&jsoup\\newsApp\\build\\intermediates\\res\\merged\\debug\\layout\\huiyuan_layout.xml",
+        "source": "E:\\android\\MyWork\\DayNews&jsoup\\newsApp\\src\\main\\res\\layout\\huiyuan_layout.xml"
+    },
+    {
+        "merged": "E:\\android\\MyWork\\DayNews&jsoup\\newsApp\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "E:\\android\\MyWork\\DayNews&jsoup\\newsApp\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "E:\\android\\MyWork\\DayNews&jsoup\\newsApp\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\android\\MyWork\\DayNews&jsoup\\newsApp\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\android\\MyWork\\DayNews&jsoup\\newsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_top.xml",
+        "source": "E:\\android\\MyWork\\DayNews&jsoup\\newsApp\\src\\main\\res\\layout\\activity_top.xml"
+    },
+    {
+        "merged": "E:\\android\\MyWork\\DayNews&jsoup\\newsApp\\build\\intermediates\\res\\merged\\debug\\layout\\daohang_layout.xml",
+        "source": "E:\\android\\MyWork\\DayNews&jsoup\\newsApp\\src\\main\\res\\layout\\daohang_layout.xml"
+    },
+    {
+        "merged": "E:\\android\\MyWork\\DayNews&jsoup\\newsApp\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_layout.xml",
+        "source": "E:\\android\\MyWork\\DayNews&jsoup\\newsApp\\src\\main\\res\\layout\\fragment_layout.xml"
+    },
+    {
+        "merged": "E:\\android\\MyWork\\DayNews&jsoup\\newsApp\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item.xml",
+        "source": "E:\\android\\MyWork\\DayNews&jsoup\\newsApp\\src\\main\\res\\layout\\gridview_item.xml"
+    },
+    {
+        "merged": "E:\\android\\MyWork\\DayNews&jsoup\\newsApp\\build\\intermediates\\res\\merged\\debug\\layout\\shouye_layout.xml",
+        "source": "E:\\android\\MyWork\\DayNews&jsoup\\newsApp\\src\\main\\res\\layout\\shouye_layout.xml"
+    },
+    {
+        "merged": "E:\\android\\MyWork\\DayNews&jsoup\\newsApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_webview.xml",
+        "source": "E:\\android\\MyWork\\DayNews&jsoup\\newsApp\\src\\main\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "E:\\android\\MyWork\\DayNews&jsoup\\newsApp\\build\\intermediates\\res\\merged\\debug\\layout\\shipping_layout.xml",
+        "source": "E:\\android\\MyWork\\DayNews&jsoup\\newsApp\\src\\main\\res\\layout\\shipping_layout.xml"
+    },
+    {
+        "merged": "E:\\android\\MyWork\\DayNews&jsoup\\newsApp\\build\\intermediates\\res\\merged\\debug\\layout\\jiaoyou_layout.xml",
+        "source": "E:\\android\\MyWork\\DayNews&jsoup\\newsApp\\src\\main\\res\\layout\\jiaoyou_layout.xml"
+    }
+]
