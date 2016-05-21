@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/newsApp" />
             <option value="$PROJECT_DIR$/topNews" />
             <option value="$PROJECT_DIR$/今日头条" />
+            <option value="$PROJECT_DIR$/阳哥的" />
           </set>
         </option>
         <option name="myModules">
@@ -24,6 +25,7 @@
             <option value="$PROJECT_DIR$/newsApp" />
             <option value="$PROJECT_DIR$/topNews" />
             <option value="$PROJECT_DIR$/今日头条" />
+            <option value="$PROJECT_DIR$/阳哥的" />
           </set>
         </option>
       </GradleProjectSettings>

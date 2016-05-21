@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/newsApp/newsApp.iml" filepath="$PROJECT_DIR$/newsApp/newsApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/topNews/topNews.iml" filepath="$PROJECT_DIR$/topNews/topNews.iml" />
       <module fileurl="file://$PROJECT_DIR$/今日头条/今日头条.iml" filepath="$PROJECT_DIR$/今日头条/今日头条.iml" />
+      <module fileurl="file://$PROJECT_DIR$/阳哥的/阳哥的.iml" filepath="$PROJECT_DIR$/阳哥的/阳哥的.iml" />
     </modules>
   </component>
 </project>

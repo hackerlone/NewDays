@@ -30,19 +30,20 @@ the .jar file in your project was of an older version than the
 dependency we picked, which could render the project not compileable.
 You can disable the jar replacement in the import wizard and try again:
 
-android-support-v4.jar => com.android.support:support-v4:20.+
+android-support-v4.jar => com.android.support:support-v4:18.+
 
 Moved Files:
 ------------
 Android Gradle projects use a different directory structure than ADT
 Eclipse projects. Here's how the projects were restructured:
 
-* AndroidManifest.xml => topNews\src\main\AndroidManifest.xml
-* assets\ => topNews\src\main\assets
-* libs\jsoup-1.8.3.jar => topNews\libs\jsoup-1.8.3.jar
-* libs\volley.jar => topNews\libs\volley.jar
-* res\ => topNews\src\main\res\
-* src\ => topNews\src\main\java\
+* AndroidManifest.xml => 阳哥的\src\main\AndroidManifest.xml
+* ASimpleCache\ => 阳哥的\src\main\java\
+* assets\ => 阳哥的\src\main\assets
+* libs\jsoup-1.8.3.jar => 阳哥的\libs\jsoup-1.8.3.jar
+* libs\volley.jar => 阳哥的\libs\volley.jar
+* res\ => 阳哥的\src\main\res\
+* src\ => 阳哥的\src\main\java\
 
 Missing Android Support Repository:
 -----------------------------------
