@@ -1,4 +1,4 @@
-include ':今日头条', ':fragment对话框', ':gson试验'
+include ':今日头条', ':fragment对话框', ':gson试验', ':wjm今日头条', ':textviewdemo自定义'
 include ':newsApp'
 include ':topNews'
 include ':阳哥的'

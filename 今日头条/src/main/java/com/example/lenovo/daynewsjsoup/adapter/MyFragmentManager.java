@@ -4,6 +4,9 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
+import com.example.lenovo.daynewsjsoup.presenter.RecommandPresenter;
+import com.example.lenovo.daynewsjsoup.ui.fragment.MyFragment;
+
 import java.util.List;
 
 /**
@@ -19,7 +22,7 @@ public class MyFragmentManager extends FragmentPagerAdapter {
 
     @Override
     public Fragment getItem(int position) {
-        Fragment fragment=null;
+        MyFragment fragment=null;
         if(position==0){
             fragment=new MyFragment(RecommandPresenter.class);
         }

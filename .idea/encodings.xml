@@ -17,6 +17,10 @@
     <file url="file://$PROJECT_DIR$/newsApp/src/main/java/com/xsy/newsapp/ui/fragment/TechnologyFragment.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/newsApp/src/main/java/com/xsy/newsapp/util/BitmapCache.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/newsApp/src/main/java/com/xsy/newsapp/util/ToolUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/wjm今日头条/src/main/java/com/example/wjm/util/ToolUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/今日头条/src/main/java/com/example/lenovo/daynewsjsoup/util/ToolUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/阳哥的/src/main/java/com/gxa/presenter/NewsPresenter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/阳哥的/src/main/java/com/gxa/ui/fragment/RecommandFragment.java" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

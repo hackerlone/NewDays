@@ -21,10 +21,9 @@ public class NewModelImpl implements NewModel{
 	public List<Map<String, String>> recommandModel() {
 		List<Map<String, String>> list = new ArrayList<Map<String,String>>();
 		Document doc = null;
-		
+
 		try {
 			doc = Jsoup.connect("http://news.sina.cn/?vt=4&pos=108").get();
-
 			Elements recommand = doc.select("section[data-sudaclick=yaowen]").select("a.carditems");
 			for (Element e : recommand) {
 				Map<String, String> map = new HashMap<String, String>();

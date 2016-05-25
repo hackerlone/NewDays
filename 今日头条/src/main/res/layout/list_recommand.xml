@@ -1,0 +1,113 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/item1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/item1title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="希腊爆发全国罢工示威 向警察投掷燃烧弹" />
+
+        <ImageView
+            android:id="@+id/item1img"
+            android:layout_width="300dp"
+            android:layout_height="200dp"
+            android:adjustViewBounds="true"
+            android:paddingLeft="9dp"
+            android:paddingRight="9dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/item2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/item2title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="9dp"
+            android:text="他宁愿拿底薪也不重回火箭 打出千万身价的他已经是黄皮肤的乔丹" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/item2img1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="9dp"
+                android:layout_weight="1"
+                android:adjustViewBounds="true" />
+
+            <ImageView
+                android:id="@+id/item2img2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="1dp"
+                android:layout_marginRight="1dp"
+                android:layout_weight="1"
+                android:adjustViewBounds="true"/>
+
+            <ImageView
+                android:id="@+id/item2img3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="9dp"
+                android:layout_weight="1"
+                android:adjustViewBounds="true" />
+        </LinearLayout>
+    </LinearLayout>
+   <LinearLayout
+       android:id="@+id/item3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/item_titel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="9dp"
+                android:layout_marginTop="9dp"
+                android:layout_weight="1"
+                android:text="便怕影响他"
+                android:textSize="18dp" />
+
+            <TextView
+                android:id="@+id/item_desc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="9dp"
+                android:layout_marginTop="9dp"
+                android:layout_weight="2"
+                android:text="2.1亿巨奖得主孩子成年再告知以便怕影响他" />
+        </LinearLayout>
+         <ImageView
+            android:id="@+id/item_img"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:adjustViewBounds="true"
+            android:layout_marginRight="5dp"/>
+    </LinearLayout>
+   
+
+</LinearLayout>
